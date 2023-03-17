@@ -1,0 +1,15 @@
+{
+    "background_image": "assets/img/backgrounddark.jpg",
+    "description": "MacOs Interaction now posible in windows",
+    "display": "fullscreen",
+    "icons": [
+      {
+        "src": "assets/img/rohan.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ],
+    "name": "MacOs Simulator",
+    "short_name": "MacOsX",
+    "start_url": "http://test.bodmaslmedia.in/"
+  }
