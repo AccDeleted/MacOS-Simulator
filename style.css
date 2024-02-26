@@ -1694,3 +1694,11 @@ opacity: 0;
   background-color: #fff;
   color: #ff9503;
 }
+.apple-logo {
+	position: absolute;
+	top: 46%; 
+	left: 50%;
+	z-index: 100000000;
+	transform: translate3d(-50%, -50%);
+	animation: appear 1s;
+}
